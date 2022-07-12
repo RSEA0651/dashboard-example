@@ -341,7 +341,7 @@
           ><ul>
           	<li>Static Code Analysis</li>
           	<li>Dynamic Code Analysis</li>
-          	<li>Vulnerability Scanning</li>
+          	<li>Vulnerability Assessment</li>
           </ul>
           <br>
 <label class="pf-c-switch" for="switch-with-icon-3">
